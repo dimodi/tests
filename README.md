@@ -1,8 +1,13 @@
 Test Repository
 ===============
 
-line1
-line2
+text1
+text2 on a new line
+
+===
+
+text1 and two spaces  
+text2 on a new line after the two spaces
 
 ===
 
