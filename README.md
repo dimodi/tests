@@ -16,3 +16,8 @@ html
   font: 12px sans-serif;
 }
 ```
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
