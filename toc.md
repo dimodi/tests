@@ -13,23 +13,23 @@
   * Two-way data binding with MVVM
 * Supported browsers
 * Troubleshooting
-* Customise the widgets' appearance
-  * ThemeBuilder overview
+* CSS Styling
+  * ThemeBuilder
   * Font icons
   * Reuse the Kendo UI CSS classes
   * Override the widget styles
-* Manage data / implement CRUD UI
-  * Use Grid for tabular data
+* Manage data and CRUD
+  * Grid
      * Bind to remote data
-  * Use ListView for data lists
+  * ListView
      * Introduction
-  * Use TreeView for hierarchical data
-  * Use PivotGrid for OLAP cubes
+  * TreeView
+  * PivotGrid
 * Build data entry forms
   * Introduction
   * Decorate forms with the Kendo UI CSS classes
   * Editor
-  * Date/Time pickers
+  * Date/Time Pickers
   * AutoComplete, ComboBox, DropDownList
   * MultiSelect
   * MaskedTextBox
@@ -45,7 +45,7 @@
   * ??? group the charts into something meaningful, check the editors above
   * Draw diagrams using the Diagram widget
   * Maps
-* Build Line of Business Applications
+* Scheduling and Task Management
   * Scheduler
   * Gantt Chart
 * Interactive widgets and features
@@ -78,8 +78,8 @@
         * Pull to Refresh pattern
   * Troubleshoot a Hybrid Application
   * Frequently Asked Questions
-* Kendo UI and responsive web design
-* Make your Kendo UI application accessible
+* Responsive web design
+* Accessibility
 * Globalization and Localization
 * The Kendo UI JavaScript framework and library utilities
   * DataSource
