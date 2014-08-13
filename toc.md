@@ -6,7 +6,7 @@
   * Include only what you need (y)
   * Intellisense in Visual Studio
   * Changes and Backward Compatibility (y)
-* Fundamentals
+* Widget fundamentals
   * Initialise a widget with jQuery (y)
   * Initialise a widget from markup
   * Events and methods
@@ -14,7 +14,7 @@
 * Supported browsers
 * Troubleshooting
 * CSS Styling
-  * ThemeBuilder
+  * Kendo UI ThemeBuilder
   * Font icons
   * Reuse the Kendo UI CSS classes
   * Override the widget styles
@@ -27,8 +27,8 @@
   * PivotGrid
 * Build data entry forms
   * Introduction
-  * Decorate forms with the Kendo UI CSS classes
-  * Editor
+  * Decorate forms with CSS
+  * Rich text Editor
   * Date/Time Pickers
   * AutoComplete, ComboBox, DropDownList
   * MultiSelect
@@ -48,35 +48,35 @@
 * Scheduling and Task Management
   * Scheduler
   * Gantt Chart
-* Interactive widgets and features
+* Interactive widgets
   * ProgressBar
   * Drag & Drop Interfaces
-  * Sort lists with Drag & Drop
+  * Sort lists with drag & drop
   * Effects and Animations
   * Notifications
   * Tooltips
-* Single Page Applications
+* Layout and navigation widgets
   * Introduction
-  * View
-  * Layout
-  * Router
-  * Data binding with MVVM
-* Use Kendo UI for layout and navigation
-  * Introduction
-  * Splitter
-  * Window
-  * Button
-  * Menu
+  * Build desktop-like UI with the Splitter
+  * Popup Window
+  * Define user actions with the Button
+  * Create multilevel navigation with the Menu
   * TabStrip
   * PanelBar
   * ToolBar
+* Single Page Applications
+  * Introduction
+  * Build views
+  * Share UI with the Layout
+  * Enable navigation with the Router
+  * Data binding with MVVM
 * Hybrid Mobile Applications
   * Your first Kendo UI mobile application
   * Display dynamic data
      * Mobile ListView
         * Virtual mode for large data sets
         * Pull to Refresh pattern
-  * Troubleshoot a Hybrid Application
+  * Troubleshooting
   * Frequently Asked Questions
 * Responsive web design
 * Accessibility
